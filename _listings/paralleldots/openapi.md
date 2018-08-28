@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: ParallelDots
 x-complete: 1
@@ -63,4 +62,3 @@ paths:
       tags:
       - Machine Learning
       - Abuse
----

@@ -8,11 +8,159 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intui
 x-kinRank: "8"
 x-alexaRank: "263"
 tags: Terms
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: QuickBooks Online V3 API - Post Term
+  x-api-slug: term-post
+  description: |-
+    Update a term object
+    Method : POST
+
+    Term object can't be deleted parmanently. It can only be deactived by setting the 'Active' attribute to false.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term-post-openapi.md
+- name: QuickBooks Online V3 API - Get Term
+  x-api-slug: term8-get
+  description: |-
+    Read a term object by Id
+    Method : Get
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term8-get-openapi.md
+- name: QuickBooks Online V3 API - Post Term
+  x-api-slug: term-post
+  description: |-
+    Update a term object
+    Method : POST
+
+    Term object can't be deleted parmanently. It can only be deactived by setting the 'Active' attribute to false.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term-post-openapi.md
+- name: QuickBooks Online V3 API - Get Term
+  x-api-slug: term8-get
+  description: |-
+    Read a term object by Id
+    Method : Get
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term8-get-openapi.md
+- name: QuickBooks Online V3 API - Get Term
+  x-api-slug: term8-get
+  description: |-
+    Read a term object by Id
+    Method : Get
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term8-get-openapi.md
+- name: QuickBooks Online V3 API - Get Term
+  x-api-slug: term8-get
+  description: |-
+    Read a term object by Id
+    Method : Get
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term8-get-openapi.md
+- name: QuickBooks Online V3 API - Get Term
+  x-api-slug: term8-get
+  description: |-
+    Read a term object by Id
+    Method : Get
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term8-get-openapi.md
+- name: QuickBooks Online V3 API - Get Term
+  x-api-slug: term8-get
+  description: |-
+    Read a term object by Id
+    Method : Get
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term8-get-openapi.md
+- name: QuickBooks Online V3 API - Post Term
+  x-api-slug: term-post
+  description: |-
+    Update a term object
+    Method : POST
+
+    Term object can't be deleted parmanently. It can only be deactived by setting the 'Active' attribute to false.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term-post-openapi.md
+- name: QuickBooks Online V3 API - Post Term
+  x-api-slug: term-post
+  description: |-
+    Update a term object
+    Method : POST
+
+    Term object can't be deleted parmanently. It can only be deactived by setting the 'Active' attribute to false.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
+  humanURL: https://intuit.com
+  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
+  tags: Finance, Accounting, Orange Report Financial, Finance, Accounting, Stack Network,
+    Stack, Financial Services, SaaS, Technology, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/intuit/term-post-openapi.md
 x-common:
 - type: x-postman-collection
   url: https://www.getpostman.com/collections/554420530884cde6b794

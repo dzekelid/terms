@@ -7,11 +7,51 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykk
 x-kinRank: "8"
 x-alexaRank: "152167"
 tags: Terms
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/lykke/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Wallet_Api - Get API Clienttrading Termsofuse
+  x-api-slug: apiclienttradingtermsofuse-get
+  description: Get api clienttrading termsofuse.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg
+  humanURL: https://lykke.com
+  baseURL: https:////
+  tags: Technology, Marketplace, Blockchain, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/lykke/apiclienttradingtermsofuse-get-openapi.md
+- name: Wallet_Api - Add API Clienttrading Termsofuse Margin Agree
+  x-api-slug: apiclienttradingtermsofusemarginagree-post
+  description: Add api clienttrading termsofuse margin agree.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg
+  humanURL: https://lykke.com
+  baseURL: https:////
+  tags: Technology, Marketplace, Blockchain, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/lykke/apiclienttradingtermsofusemarginagree-post-openapi.md
+- name: Wallet_Api - Get API Clienttrading Termsofuse
+  x-api-slug: apiclienttradingtermsofuse-get
+  description: Get api clienttrading termsofuse.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg
+  humanURL: https://lykke.com
+  baseURL: https:////
+  tags: Technology, Marketplace, Blockchain, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/lykke/apiclienttradingtermsofuse-get-openapi.md
+- name: Wallet_Api - Add API Clienttrading Termsofuse Margin Agree
+  x-api-slug: apiclienttradingtermsofusemarginagree-post
+  description: Add api clienttrading termsofuse margin agree.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg
+  humanURL: https://lykke.com
+  baseURL: https:////
+  tags: Technology, Marketplace, Blockchain, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/lykke/apiclienttradingtermsofusemarginagree-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://lyft.api.gallery.streamdata.io

@@ -7,11 +7,28 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/379-bigove
 x-kinRank: "8"
 x-alexaRank: "117577"
 tags: Terms
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/bigoven/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Big Oven - Get food glossary article by term (e.g., asparagus). This editorial
+    is (c) BigOven and MUST carry attribution and a link back to the glossary entry
+    on BigOven.com.
+  x-api-slug: glossarybytermterm-get
+  description: Get food glossary article by term (e.g., asparagus). this editorial
+    is (c) bigoven and must carry attribution and a link back to the glossary entry
+    on bigoven.com..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/379-bigoven.jpg
+  humanURL: http://www.bigoven.com
+  baseURL: https://api2.bigoven.com//
+  tags: Cooking, Food, Nutrition, Recipes, Food, Stack Network, Mobile, Technology,
+    internet, API Provider, , Profiles, General Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/bigoven/glossarybytermterm-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/bigoven/glossarybytermterm-get-openapi.md
 - name: Big Oven - Get food glossary article by term (e.g., asparagus). This editorial
     is (c) BigOven and MUST carry attribution and a link back to the glossary entry
     on BigOven.com.

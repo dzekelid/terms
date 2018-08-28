@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/270-uc-ber
 x-kinRank: "9"
 x-alexaRank: "906"
 tags: Terms
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/uc-berkeley/apis.md
 specificationVersion: "0.14"
 apis:
@@ -28,6 +28,20 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/uc-berkeley/getacademiccalendarnextterms-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/uc-berkeley/getacademiccalendarnextterms-get-openapi.md
+- name: UC Berkeley Academic Terms API - Current Academic Term
+  x-api-slug: getacademiccurrentterm-get
+  description: Get the current academic term.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/270-uc-berkeley.jpg
+  humanURL: https://api-central.berkeley.edu/
+  baseURL: https://apis.berkeley.edu//sisconnect
+  tags: Berkeley, California, Universities, University Portal, University Leader,
+    API LIfeyclessss, Stack Network, Education, Universities, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/uc-berkeley/getacademiccurrentterm-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/uc-berkeley/getacademiccurrentterm-get-openapi.md
 - name: UC Berkeley Academic Terms API - Current Academic Term
   x-api-slug: getacademiccurrentterm-get
   description: Get the current academic term.

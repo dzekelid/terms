@@ -7,11 +7,52 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Terms
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Dezrez.Rezi.Client.Api - Set the terms of business for a landlord on a PropertyLettingRole
+  x-api-slug: apirolelettingsidsettobsigned-put
+  description: Set the terms of business for a landlord on a propertylettingrole.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/dezrez/apirolelettingsidsettobsigned-put-openapi.md
+- name: "Dezrez.Rezi.Client.Api - Set start date, terms, end date and notice period
+    for tenancy.\r\nassertions"
+  x-api-slug: apitenancyidsetdates-post
+  description: "Set start date, terms, end date and notice period for tenancy.\r\nassertions."
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/dezrez/apitenancyidsetdates-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Terminates a running workflow instance.
+  x-api-slug: apiadminbusinessworkflowworkflowname-delete
+  description: Terminates a running workflow instance..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/dezrez/apiadminbusinessworkflowworkflowname-delete-openapi.md
+- name: Dezrez.Rezi.Client.Api - Terminates a running workflow instance.
+  x-api-slug: apiworkflowworkflowname-delete
+  description: Terminates a running workflow instance..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/dezrez/apiworkflowworkflowname-delete-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez

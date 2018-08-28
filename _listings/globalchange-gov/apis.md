@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Terms
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/globalchange-gov/apis.md
 specificationVersion: "0.14"
 apis:
@@ -80,6 +80,32 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/globalchange-gov/lexiconlexicon-identifiercontextterm-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/globalchange-gov/lexiconlexicon-identifiercontextterm-get-openapi.md
+- name: Global Change Information System API - Lookup a GCID from a term
+  x-api-slug: lexiconlexicon-identifiercontextterm-get
+  description: Given a lexicon, term, and context, return a 303 redirect to a GCID
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
+  humanURL: http://globalchange.gov/
+  baseURL: https://data.globalchange.gov//
+  tags: Federal Government, Federal Government, Stack Network, API Provider, Profiles,
+    General Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/globalchange-gov/lexiconlexicon-identifiercontextterm-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/globalchange-gov/lexiconlexicon-identifiercontextterm-get-openapi.md
+- name: Global Change Information System API - Lookup a GCID from a term
+  x-api-slug: lexiconlexicon-identifierfindcontextterm-get
+  description: Given a lexicon, term, and context, return a 303 redirect to a GCID
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
+  humanURL: http://globalchange.gov/
+  baseURL: https://data.globalchange.gov//
+  tags: Federal Government, Federal Government, Stack Network, API Provider, Profiles,
+    General Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/globalchange-gov/lexiconlexicon-identifierfindcontextterm-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/globalchange-gov/lexiconlexicon-identifierfindcontextterm-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://gitter.api.gallery.streamdata.io

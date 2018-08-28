@@ -13,11 +13,23 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Terms
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/public-transport-victoria-timetable/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Public Transport Victoria Timetable - Get V3 Search Search Term
+  x-api-slug: v3searchsearch-term-get
+  description: View stops, routes and myki ticket outlets that match the search term.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/public-transport-victoria.png
+  humanURL: https://www.ptv.vic.gov.au/about-ptv/data-and-reports/datasets/ptv-timetable-api/
+  baseURL: https://timetableapi.ptv.vic.gov.au//
+  tags: Transit, API Provider, Transportation, Profiles, General Data, Cities
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/public-transport-victoria-timetable/v3searchsearch-term-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/terms/master/_listings/public-transport-victoria-timetable/v3searchsearch-term-get-openapi.md
 - name: Public Transport Victoria Timetable - Get V3 Search Search Term
   x-api-slug: v3searchsearch-term-get
   description: View stops, routes and myki ticket outlets that match the search term.
